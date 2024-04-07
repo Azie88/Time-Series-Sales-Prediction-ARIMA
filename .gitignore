@@ -1,3 +1,4 @@
-venv/
+myvirtualenv/
 Dataset/train.csv
 Dataset/regression_train_data.csv
+4.2.0
