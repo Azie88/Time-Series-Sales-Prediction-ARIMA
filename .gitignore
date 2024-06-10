@@ -1,4 +1,2 @@
-myvirtualenv/
-Dataset/train.csv
-Dataset/train_data_cleaned.csv
+.venv/
 4.2.0
